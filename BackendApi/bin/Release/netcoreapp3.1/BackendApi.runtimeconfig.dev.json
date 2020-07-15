@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\agaja\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\agaja\\.nuget\\packages"
+    ]
+  }
+}
